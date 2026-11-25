@@ -37,7 +37,15 @@ The project examines 500 applicant records, presenting executive-level insights 
 
 The dashboard consolidates important borrower risk indicators into an accessible analytical view, helping financial analysts and lending decision-makers identify potential risk patterns and assess applicant characteristics.
 
-## Project Author
+---
+
+## Download Interactive Power BI Dashboard
+
+[Download Executive Credit Risk Power BI Dashboard](https://github.com/Emmyottoh/Executive-Credit-Risk-PowerBI/blob/main/Executive-Credit-Risk-PowerBI.pbix?raw=true)
+
+Open the downloaded .pbix file using Microsoft Power BI Desktop to explore the interactive dashboard.
+
+---
 
 **Emmanuel Ottoh**
 
